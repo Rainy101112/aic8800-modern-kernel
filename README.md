@@ -6,16 +6,16 @@ This driver supports Linux 6.1+. Now have AIC8800DC support.
 
 Generally installtion.
 
-'''bash
+```bash
     cd drivers/aic8800
     make
     make install
-'''
+```
 
 DKMS.
 
-'''bash
+```bash
     cd drivers/aic8800
     make
     ./install.sh
-'''
+```
